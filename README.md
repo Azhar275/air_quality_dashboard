@@ -3,6 +3,8 @@
 
 This repository contains a dashboard project that utilizes the [air quality dataset](https://github.com/marceloreis/HTI/tree/master) dataset to provide insights and visualizations about the air quality in some station in Beijing, China from 2013 until 2017.
 
+You can access the dashboard using this [link](https://air-quality-dashboard-bh5qs9cb47ngyms6pmmytj.streamlit.app/)
+
 **Dataset**
 ==========
 
